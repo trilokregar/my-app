@@ -16,6 +16,8 @@ You will also see any lint errors in the console.
 
 # steps to follow for React environment setup
 
+####  use all these commands in 'Terminal'
+
 1. make directory(folder on desktop/or anywhere you want)
    
    mkdir latest
